@@ -1,0 +1,12 @@
+class_index,class,height,width
+0,Bacterial_spot,224,224
+1,Early_blight,224,224
+2,Late_blight,224,224
+3,Leaf_Mold,224,224
+4,Septoria_leaf_spot,224,224
+5,Spider_mites Two-spotted_spider_mite,224,224
+6,Target_Spot,224,224
+7,Tomato_Yellow_Leaf_Curl_Virus,224,224
+8,Tomato_mosaic_virus,224,224
+9,healthy,224,224
+10,powdery_mildew,224,224
