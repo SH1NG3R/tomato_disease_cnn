@@ -40,4 +40,3 @@ def create_model():
 
     return model
 
-# Guardar esta función en un archivo separado llamado model_architecture.py
